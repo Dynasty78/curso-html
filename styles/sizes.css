@@ -1,0 +1,68 @@
+/*body{
+    font-size: 16px;
+}
+
+p.em{
+    font-size: 2em;
+}
+
+p.ex{
+    font-size: 2ex;
+}
+
+p.px{
+
+}
+
+p.rem{
+    font-size: 1rem;
+}
+
+div p{
+    font-size: 2em;
+}*/
+
+/*
+p.in{
+    font-size: .5in;
+}
+
+p.cm{
+    font-size: 1cm;
+}
+
+p.mm{
+    font-size: 5mm;
+}
+
+p.pt{
+    font-size: 20pt;
+}
+
+p.pc{
+    font-size: 3pc;
+}*/
+
+p.pc{
+    font-size: 3pc;
+}
+
+div.fija{
+    height: 100px;
+    width: 100px;
+    background: red;
+}
+
+div.porcentual{
+    height: 100px;
+    width: 50%;
+    background: pink;
+    margin: 5%;
+}
+
+div.treinta{
+    height: 100px;
+    width: 20%;
+    background: black;
+}
+
