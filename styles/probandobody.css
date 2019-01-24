@@ -1,0 +1,39 @@
+div.container{
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    border: 3px solid black;
+    margin-top: 80px;
+    position: relative;
+}
+
+div.container > div{
+    display: inline-block;
+    vertical-align: top;
+}
+
+div.hijo{
+    width: 100px;
+    height: 100px;
+    border: 2px solid blue;
+    position: relative;
+    
+}
+
+div.hija{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    position: relative;
+    margin: 0px 20px;
+}
+
+div.bastardo{
+    width: 150px;
+    height: 150px;
+    border: 2px solid green;
+}
+
+body{
+    border: 2px solid pink;
+}

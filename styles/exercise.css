@@ -1,0 +1,19 @@
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h2{
+    border: 2px solid grey;
+    padding: 10px;
+   
+}
+
+ul{
+    border: 2px solid lime;
+}
+
+h1{
+    border: 2px solid blue;
+    padding: 10px;
+    margin-bottom: 35px;
+}

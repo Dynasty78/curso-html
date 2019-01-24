@@ -1,0 +1,27 @@
+div.padre{
+    width: 250px;
+    height: 250px;
+    margin: 25px;
+    background: orange;
+}
+
+div.hijo{
+    width: 50px;
+    height: 50px;
+    background: red;
+    display: inline-block;
+}
+
+div.hijo1{
+    width: 100px;
+    height: 100px;
+    background: green;
+    float: right;
+}
+
+div.hijo2{
+    width: 50px;
+    height: 50px;
+    background: blue;
+    clear: both;
+}
